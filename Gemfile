@@ -10,7 +10,7 @@ gem "sqlite3", ">= 2.1"
 gem "puma", ">= 5.0"
 gem "sass-rails", "~> 5.0"
 gem "uglifier", ">= 1.3.0"
-gem "coffee-rails", "~> 4.2"
+gem "coffee-rails", "~> 5.0"
 gem "turbolinks", "~> 5"
 # Use JavaScript with ESM import maps [https://github.com/rails/importmap-rails]
 gem "importmap-rails"
